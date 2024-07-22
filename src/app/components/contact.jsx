@@ -12,8 +12,8 @@ const Contact = () => {
         <div className="text-4xl font-bold text-white">Your project</div>
         <div>
           <p className="text-white">
-            Let&apos;s figure out how to create an effective application,<br /> its cost
-            and terms of its development.
+            Let&apos;s figure out how to create an effective application,<br />
+            its cost and terms of its development.
           </p>
         </div>
       </div>
