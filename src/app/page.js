@@ -12,23 +12,22 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between">
         <Hero />
-      <section id="services">
+      <section id="services" className="w-full">
         <LogoBar />
       </section>
-      <section id="developed">
+      <section id="developed" className="w-full">
         <Developed />
       </section>
-      <section id="projectss">
+      <section id="projectss" className="w-full">
         <Projects />
       </section>
-      <section id="contacts">
+      <section id="contacts" className="w-full">
         <Contact />
       </section>
-      <section id="app-stages">
+      <section id="app-stages" className="w-full">
         <AppStages />
       </section>
         <OurTeam />
-
       <section id="faq">
         <FAQ />
       </section>
