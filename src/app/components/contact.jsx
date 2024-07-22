@@ -8,7 +8,7 @@ const Contact = () => {
   return (
     <section className="w-full px-5 py-10 lg:px-20 lg:py-20 bg-gradient-to-r from-[#FABC1F] to-[#7CA546] flex flex-col lg:flex-row justify-between gap-10">
       <div className="w-full lg:w-1/2 flex flex-col gap-5">
-        <div className="text-4xl font-bold text-white">Let's discuss</div>
+        <div className="text-4xl font-bold text-white">Let&apos;s discuss</div>
         <div className="text-4xl font-bold text-white">Your project</div>
         <div>
           <p className="text-white">
