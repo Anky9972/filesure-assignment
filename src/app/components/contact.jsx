@@ -1,11 +1,6 @@
 import React from "react";
 import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
+  Card
 } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 
@@ -17,7 +12,7 @@ const Contact = () => {
         <div className="text-4xl font-bold text-white">Your project</div>
         <div>
           <p className="text-white">
-            Let's figure out how to create an effective application,<br /> its cost
+            Let&apos;s figure out how to create an effective application,<br /> its cost
             and terms of its development.
           </p>
         </div>
